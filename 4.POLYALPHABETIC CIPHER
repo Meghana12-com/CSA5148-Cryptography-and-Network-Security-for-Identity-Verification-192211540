@@ -53,3 +53,7 @@ int main() {
 
     return 0;
 }
+Output :
+Enter the message to be encrypted: ddsrfcfdswg
+Enter the key: 5
+Encrypted message: RRa`TQTRaKU
