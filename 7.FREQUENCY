@@ -26,6 +26,8 @@ void decryptAffine(char *ciphertext, int a, int b) {
     }
     printf("\n");
 }
+Output :
+XDPW FRSCJWAJIA CJWJ
 
 int main() {
     char ciphertext[] = "YOUR CIPHERTEXT HERE";
@@ -40,3 +42,5 @@ int main() {
     decryptAffine(ciphertext, a, b);
     return 0;
 }
+
+
