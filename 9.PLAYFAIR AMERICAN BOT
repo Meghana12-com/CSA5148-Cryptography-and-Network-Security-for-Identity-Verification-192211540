@@ -53,3 +53,8 @@ int main() {
 
     return 0;
 }
+Output :
+Enter the ciphertext to decrypt:
+meghna chowdary
+Decrypted message:
+MEGHNA9CHOWDARY2
