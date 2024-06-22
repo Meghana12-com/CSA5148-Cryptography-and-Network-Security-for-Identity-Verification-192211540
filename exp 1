@@ -56,3 +56,9 @@ int main() {
 
     return 0;
 }
+
+
+Output :
+Enter a string: mjgtynhgffry
+Enter the shift value (1-25): 4
+Encrypted text: qnkxcrlkjjvc
