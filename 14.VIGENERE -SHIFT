@@ -58,3 +58,7 @@ int main() {
     
     return 0;
 }
+Output :
+Enter the plaintext: meghana srinivas
+Generated key: 26 16 18 8 0 18 19 16 7 12 23 11 12 22 16 20
+Ciphertext: muypaft zdfyurqm
