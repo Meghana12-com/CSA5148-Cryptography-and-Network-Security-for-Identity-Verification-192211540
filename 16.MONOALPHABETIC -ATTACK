@@ -114,3 +114,47 @@ int main() {
     
     return 0;
 }
+Output :
+Performing letter frequency attack on the monoalphabetic substitution cipher:
+Ciphertext: Wklv lv dq rqob prgh.
+
+Top possible plaintexts (in order of likelihood):
+1. Key: XYZABCDEFGHIJKLMNOPQRSTUVW≈ÿ∙
+   Plaintext: THIS IS AN ONLY MODE.
+   Chi-Square: 0.6451
+
+2. Key: LMNOPQRSTUVWXYZABCDEFGHIJK≈ÿ∙
+   Plaintext: HVWG WG OB CBZM ACRS.
+   Chi-Square: 3.0234
+
+3. Key: EFGHIJKLMNOPQRSTUVWXYZABCD≈ÿ∙
+   Plaintext: AOPZ PZ HU VUSF TVKL.
+   Chi-Square: 3.2706
+
+4. Key: WXYZABCDEFGHIJKLMNOPQRSTUV≈ÿ∙
+   Plaintext: SGHR HR ZM NMKX LNCD.
+   Chi-Square: 4.2176
+
+5. Key: DEFGHIJKLMNOPQRSTUVWXYZABC≈ÿ∙
+   Plaintext: ZNOY OY GT UTRE SUJK.
+   Chi-Square: 4.3316
+
+6. Key: RSTUVWXYZABCDEFGHIJKLMNOPQ≈ÿ∙
+   Plaintext: NBCM CM UH IHFS GIXY.
+   Chi-Square: 4.3853
+
+7. Key: QRSTUVWXYZABCDEFGHIJKLMNOP≈ÿ∙
+   Plaintext: MABL BL TG HGER FHWX.
+   Chi-Square: 4.7609
+
+8. Key: IJKLMNOPQRSTUVWXYZABCDEFGH≈ÿ∙
+   Plaintext: ESTD TD LY ZYWJ XZOP.
+   Chi-Square: 6.3476
+
+9. Key: KLMNOPQRSTUVWXYZABCDEFGHIJ≈ÿ∙
+   Plaintext: GUVF VF NA BAYL ZBQR.
+   Chi-Square: 7.5272
+
+10. Key: PQRSTUVWXYZABCDEFGHIJKLMNO≈ÿ∙
+   Plaintext: LZAK AK SF GFDQ EGVW.
+   Chi-Square: 7.7744
