@@ -22,3 +22,5 @@ int main() {
     
     return 0;
 }
+Output:
+Number of possible keys for the Playfair cipher: 3517267638786981888
