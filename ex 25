@@ -42,3 +42,9 @@ int main() {
     printf("decrypted= %d\n", decrypted);
     return 0;
 }
+Output :
+enter the value of p = 4
+enter the value of q=  8
+enter the plaintext (integer) = 9
+encrypted= 17
+decrypted= 17
